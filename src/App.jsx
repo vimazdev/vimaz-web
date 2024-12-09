@@ -1,8 +1,9 @@
 import React from 'react'
+import Loader from '@components/common/loading/load'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div><Loader/></div>
   )
 }
 
